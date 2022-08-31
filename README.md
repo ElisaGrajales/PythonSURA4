@@ -1,3 +1,3 @@
-#Ciclos y condicionales con python
+# Ciclos y condicionales con python
 ## Programado por: Elisa Grajales Vásquez
 
